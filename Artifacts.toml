@@ -1,0 +1,96 @@
+[[BOLT]]
+arch = "aarch64"
+git-tree-sha1 = "f6e1bf4783840d416ac705e383b877355d82c682"
+os = "macos"
+
+    [[BOLT.download]]
+    sha256 = "2159d12f783f88ca8073e2b364ac12540fe86353277458bfa8aaba8f84dd6ac0"
+    url = "https://github.com/JuliaBinaryWrappers/BOLT_jll.jl/releases/download/BOLT-v18.1.4+0/BOLT.v18.1.4.aarch64-apple-darwin.tar.gz"
+[[BOLT]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5e2f8c37ac5ad7545d40720ab42fca31fad050da"
+libc = "glibc"
+os = "linux"
+
+    [[BOLT.download]]
+    sha256 = "ec23477c1d422dda3ce8622c534d1e0017aa2df3c2cb27007590db72774bbbe4"
+    url = "https://github.com/JuliaBinaryWrappers/BOLT_jll.jl/releases/download/BOLT-v18.1.4+0/BOLT.v18.1.4.aarch64-linux-gnu-cxx03.tar.gz"
+[[BOLT]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "87fe4130b7afa1b247468b5558a3d0362ab82a08"
+libc = "glibc"
+os = "linux"
+
+    [[BOLT.download]]
+    sha256 = "3581f9dc3bafddeb40c0738de9d934122003fc5be21ba9d1baa9c6a7fc884b1b"
+    url = "https://github.com/JuliaBinaryWrappers/BOLT_jll.jl/releases/download/BOLT-v18.1.4+0/BOLT.v18.1.4.aarch64-linux-gnu-cxx11.tar.gz"
+[[BOLT]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "130dbdba8b4485747ea7c7328eccda082b3ec5b8"
+libc = "musl"
+os = "linux"
+
+    [[BOLT.download]]
+    sha256 = "c45453cc4404f60d1de3702900b9284b9c5a64e784d2598567f112ec055022a9"
+    url = "https://github.com/JuliaBinaryWrappers/BOLT_jll.jl/releases/download/BOLT-v18.1.4+0/BOLT.v18.1.4.aarch64-linux-musl-cxx03.tar.gz"
+[[BOLT]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "212ef10774d450fbb248ece609d00ed135399f64"
+libc = "musl"
+os = "linux"
+
+    [[BOLT.download]]
+    sha256 = "8cdc1e36259c4e9c020b5e27eeacbd5e61839e47091ae9a6e2fbcd48652f0265"
+    url = "https://github.com/JuliaBinaryWrappers/BOLT_jll.jl/releases/download/BOLT-v18.1.4+0/BOLT.v18.1.4.aarch64-linux-musl-cxx11.tar.gz"
+[[BOLT]]
+arch = "x86_64"
+git-tree-sha1 = "980a95555f92e50533398e4a438e9b99f93be020"
+os = "macos"
+
+    [[BOLT.download]]
+    sha256 = "af95661cc392c91732ca9abf1910cf27c27551ecf42b3b17302b2a870f08a73b"
+    url = "https://github.com/JuliaBinaryWrappers/BOLT_jll.jl/releases/download/BOLT-v18.1.4+0/BOLT.v18.1.4.x86_64-apple-darwin.tar.gz"
+[[BOLT]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4f9c4205c3be5d09bcb1534b8f03e13505fa1c8b"
+libc = "glibc"
+os = "linux"
+
+    [[BOLT.download]]
+    sha256 = "f29cb1bb3c96680a24e5980a39d621c9d4111bdf3be83988462d2b67d7055bd8"
+    url = "https://github.com/JuliaBinaryWrappers/BOLT_jll.jl/releases/download/BOLT-v18.1.4+0/BOLT.v18.1.4.x86_64-linux-gnu-cxx03.tar.gz"
+[[BOLT]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a1b73f9f120abe013c4dfc5a5dd44584ab245c70"
+libc = "glibc"
+os = "linux"
+
+    [[BOLT.download]]
+    sha256 = "220c923d698e9242c557f73661c520454c7033e45ac4f19f70b4e7dfc61001a2"
+    url = "https://github.com/JuliaBinaryWrappers/BOLT_jll.jl/releases/download/BOLT-v18.1.4+0/BOLT.v18.1.4.x86_64-linux-gnu-cxx11.tar.gz"
+[[BOLT]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "138277e1c1608be0ff26d5f8dbe82a1f1fc4e2fd"
+libc = "musl"
+os = "linux"
+
+    [[BOLT.download]]
+    sha256 = "aeb86e5edcb6adda73d38cacb3f14a3f96d27802496b4a9fb56b760f5ad11a02"
+    url = "https://github.com/JuliaBinaryWrappers/BOLT_jll.jl/releases/download/BOLT-v18.1.4+0/BOLT.v18.1.4.x86_64-linux-musl-cxx03.tar.gz"
+[[BOLT]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e38a3ee329f74b2b9ffa94fba022b341f42ddd5b"
+libc = "musl"
+os = "linux"
+
+    [[BOLT.download]]
+    sha256 = "694543ae99e871c0fc8b738a1919e25d953ff8cef2129a937d9a324ce303e0ed"
+    url = "https://github.com/JuliaBinaryWrappers/BOLT_jll.jl/releases/download/BOLT-v18.1.4+0/BOLT.v18.1.4.x86_64-linux-musl-cxx11.tar.gz"
